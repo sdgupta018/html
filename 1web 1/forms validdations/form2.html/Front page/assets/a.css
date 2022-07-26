@@ -1,9 +1,9 @@
+body{
+    background-color:gray;
+    background-image:url(https://th.bing.com/th/id/R.140dec27d5f7bc4a3cd81cd4aad1da65?rik=2Gya64shRGFHzg&riu=http%3a%2f%2fwww.wallpapers13.com%2fwp-content%2fuploads%2f2016%2f05%2fNature-landscape-yellow-flowers-and-blue-mountain-lake-hills-red-cloud-sunset-HD-Desktop-Wallpaper-3840x2400.jpg&ehk=I0v5bHi0YOVnDpP9WW%2fd6ciBttTNjEAPQDH7bEMBXcY%3d&risl=1&pid=ImgRaw&r=0) ;
+}
 h1,{
     background-color:green;
     color:white;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
-}
-h2{
-    background-color: blue;
 }
