@@ -1,6 +1,5 @@
-function changeColor () {
-
-document.getElementById('bcd').style.background ="green"
+function changeColor() {
+document.getElementById('bcd').style.backgroundColor ="white"
 document.get
 
 
